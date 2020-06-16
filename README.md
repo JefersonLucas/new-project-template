@@ -1,6 +1,5 @@
 # New project template
 
-![JefersonLuckas](https://img.shields.io/badge/Jeferson%20Lucas-New%20project%20template-green)
 ![GitHub](https://img.shields.io/github/license/JefersonLucas/new-project-template)
 
 > :rocket: This is a living document and new ideas for improving the corresponding codes are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
@@ -9,7 +8,7 @@
 
  * [Translations](#translations)
  * [Start](#start)
- * [Shields.io](#shields.io)
+ * [Shields.io](#shields)
  * [License](#license)
 
 ## Translations
@@ -28,8 +27,8 @@ To clone this repository on your local machine, use the command lines:
 ```
 #Clone with SSH
 
-mkdir sharingan-eye
-cd sharingan-eye
+mkdir new-project-template
+cd new-project-template
 git init
 git clone git@github.com:JefersonLucas/new-project-template.git
 ```
@@ -51,7 +50,9 @@ You can also [download](https://github.com/JefersonLucas/new-project-template/ar
 
 **3. Fazendo um fork desse projeto**.
 
-## Shields.io
+Make a fork and contribute to this project.
+
+## Shields
 
 [Shields.io](https://shields.io/) are customizable badges that you can use for your project.
 
