@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/JefersonLucas/new-project-template)
 
-> :rocket: This is a living document and new ideas for improving the corresponding codes are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
+> This is a living document and new ideas for improving the corresponding codes are always welcome. Contribute: fork, clone, branch, commit, push, pull request.
 
 ## Table of contents
 
@@ -48,7 +48,7 @@ Fork and contribute to this project.
 
 You can also [download](https://github.com/JefersonLucas/new-project-template/archive/master.zip) this repository in zip format.
 
-**3. Fazendo um fork desse projeto**.
+**3. Forking this project**.
 
 Make a fork and contribute to this project.
 

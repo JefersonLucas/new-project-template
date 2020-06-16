@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/JefersonLucas/new-project-template)
 
-> :rocket: Este é um documento vivo e novas ideias para melhorar os códigos correspondentes são sempre bem vindas. Contribua: faça fork, clone, branch, commit, push, pull request.
+> Este é um documento vivo e novas ideias para melhorar os códigos correspondentes são sempre bem vindas. Contribua: faça fork, clone, branch, commit, push, pull request.
 
 ## Índice
 
