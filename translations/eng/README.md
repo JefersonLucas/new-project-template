@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../../template/assets/img/capture.png" width="350">
-</p>
-
 # Novo modelo de projeto
 
 ![GitHub](https://img.shields.io/github/license/JefersonLucas/new-project-template)
@@ -18,7 +14,7 @@ A ideia desse repositório não é ser um guia de projeto completo. Mas sim ter 
 
 ## Sumário
 
-- [Git](#git)
+- [Commit](#commit)
 - [Readme](#readme)
 - [HTML](#html)
 - [CSS](#css)
@@ -28,7 +24,7 @@ A ideia desse repositório não é ser um guia de projeto completo. Mas sim ter 
 - [Traduções](#traduções)
 - [Licença](#licença)
 
-## Git
+## Commit
 Para facilitar a contribuição de qualquer pessoa nos projetos, todas as mensagens de `commit`, `pull requests` ou discussões devem ser em **Inglês**.
 
 > **Motivo**: hoje em dia o inglês é o idioma universal. Se você usa outro idioma, está excluindo potenciais colaboradores.
@@ -1150,8 +1146,8 @@ Como este é um novo documento, algumas regras podem não ter sido aplicadas em 
 
 ## Traduções
 
-* [ORIGINAL](https://github.com/JefersonLucas/new-project-template)
-* [Portuguese - Brazil](https://github.com/JefersonLucas/new-project-template/tree/master/translations/pt-br)
+* [Original](https://github.com/JefersonLucas/new-project-template)
+* [English](https://github.com/JefersonLucas/new-project-template/tree/master/translations/eng)
 
 ## Licença
 
