@@ -12,16 +12,24 @@ O documento a seguir descreve as regras de escrita nas linguagens de desenvolvim
 
 A ideia desse repositório não é ser um guia de projeto completo. Mas sim ter um local para que eu e outros desenvolvedores  consigam se organizar e assim terem projetos padronizados, com códigos mais limpos e bem legíveis.
 
+## Contribuindo
+
+Leia [CONTRIBUTING.md](https://github.com/JefersonLucas/new-project-template/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
+
+## Traduções
+
+* [Original](https://github.com/JefersonLucas/new-project-template)
+* [English](https://github.com/JefersonLucas/new-project-template/tree/master/translations/eng)
+
 ## Sumário
 
 - [Commit](#commit)
-- [Readme](#readme)
+- [README](#readme)
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [Considerações finais](#considerações-finais)
 - [Referências](#referências)
-- [Traduções](#traduções)
 - [Licença](#licença)
 
 ## Commit
@@ -39,7 +47,7 @@ git commit -m "Add placeholder on input #10"
 git commit -m "Add placeholder on input"
 ```
 
-## Readme
+## README
 
 A principal influência de template no README.md é o [@PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 
@@ -933,7 +941,7 @@ body {
 
 ## JavaScript
 
-As principais influências para as regras de CSS são o [Code Guide by @mdo](https://github.com/mdo/code-guide), [idiomatic CSS](https://github.com/necolas/idiomatic-css/) e o [coding style](https://github.com/felipefialho/coding-style).
+As principais influências para as regras de JavaScript são o [Code Guide by @mdo](https://github.com/mdo/code-guide), [idiomatic CSS](https://github.com/necolas/idiomatic-css/) e o [coding style](https://github.com/felipefialho/coding-style).
 
 - [JavaScript Sintaxe](#javascript-sintaxe)
 - [JavaScript Variáveis](#javascript-variáveis)
@@ -1143,11 +1151,6 @@ Como este é um novo documento, algumas regras podem não ter sido aplicadas em 
 * [idiomatic.js](https://github.com/rwldrn/idiomatic.js/)
 * [Zeno Rocha Coding Style](https://github.com/zenorocha/my-coding-style/)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/JavaScript)
-
-## Traduções
-
-* [Original](https://github.com/JefersonLucas/new-project-template)
-* [English](https://github.com/JefersonLucas/new-project-template/tree/master/translations/eng)
 
 ## Licença
 
